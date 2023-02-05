@@ -10,8 +10,6 @@
 </head>
 <body>
     
-</body>
-</html>
 
 <!-- Kişisel Bilgiler -->
 
@@ -62,3 +60,6 @@
       <p> <strong>Harry Potter</strong>, İngiliz yazar <em>K. Rowling</em> tarafindan yazilmiş yedi fantastik romandan oluşan bir seridir. Romanlar, Hogwarts Cadilik ve Büyücülük Okulu'nda eğitim gören genç büyücü <strong><em> Harry Potter ile arkadaşlari Hermione Granger ve Ron Weasley</em></strong>'nin yaşamlarini konu alir.</p>
 
 </div>
+
+</body>
+</html>
